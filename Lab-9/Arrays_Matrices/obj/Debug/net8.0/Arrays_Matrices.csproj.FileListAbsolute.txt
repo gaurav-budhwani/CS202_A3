@@ -1,0 +1,14 @@
+D:\STT\CS202_L9\Arrays_Matrices\bin\Debug\net8.0\Arrays_Matrices.exe
+D:\STT\CS202_L9\Arrays_Matrices\bin\Debug\net8.0\Arrays_Matrices.deps.json
+D:\STT\CS202_L9\Arrays_Matrices\bin\Debug\net8.0\Arrays_Matrices.runtimeconfig.json
+D:\STT\CS202_L9\Arrays_Matrices\bin\Debug\net8.0\Arrays_Matrices.dll
+D:\STT\CS202_L9\Arrays_Matrices\bin\Debug\net8.0\Arrays_Matrices.pdb
+D:\STT\CS202_L9\Arrays_Matrices\obj\Debug\net8.0\Arrays_Matrices.GeneratedMSBuildEditorConfig.editorconfig
+D:\STT\CS202_L9\Arrays_Matrices\obj\Debug\net8.0\Arrays_Matrices.AssemblyInfoInputs.cache
+D:\STT\CS202_L9\Arrays_Matrices\obj\Debug\net8.0\Arrays_Matrices.AssemblyInfo.cs
+D:\STT\CS202_L9\Arrays_Matrices\obj\Debug\net8.0\Arrays_Matrices.csproj.CoreCompileInputs.cache
+D:\STT\CS202_L9\Arrays_Matrices\obj\Debug\net8.0\Arrays_Matrices.dll
+D:\STT\CS202_L9\Arrays_Matrices\obj\Debug\net8.0\refint\Arrays_Matrices.dll
+D:\STT\CS202_L9\Arrays_Matrices\obj\Debug\net8.0\Arrays_Matrices.pdb
+D:\STT\CS202_L9\Arrays_Matrices\obj\Debug\net8.0\Arrays_Matrices.genruntimeconfig.cache
+D:\STT\CS202_L9\Arrays_Matrices\obj\Debug\net8.0\ref\Arrays_Matrices.dll

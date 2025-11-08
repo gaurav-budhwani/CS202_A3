@@ -1,0 +1,14 @@
+D:\STT\CS202_L9\Loops_and_functions\bin\Debug\net8.0\Loops_and_functions.exe
+D:\STT\CS202_L9\Loops_and_functions\bin\Debug\net8.0\Loops_and_functions.deps.json
+D:\STT\CS202_L9\Loops_and_functions\bin\Debug\net8.0\Loops_and_functions.runtimeconfig.json
+D:\STT\CS202_L9\Loops_and_functions\bin\Debug\net8.0\Loops_and_functions.dll
+D:\STT\CS202_L9\Loops_and_functions\bin\Debug\net8.0\Loops_and_functions.pdb
+D:\STT\CS202_L9\Loops_and_functions\obj\Debug\net8.0\Loops_and_functions.GeneratedMSBuildEditorConfig.editorconfig
+D:\STT\CS202_L9\Loops_and_functions\obj\Debug\net8.0\Loops_and_functions.AssemblyInfoInputs.cache
+D:\STT\CS202_L9\Loops_and_functions\obj\Debug\net8.0\Loops_and_functions.AssemblyInfo.cs
+D:\STT\CS202_L9\Loops_and_functions\obj\Debug\net8.0\Loops_and_functions.csproj.CoreCompileInputs.cache
+D:\STT\CS202_L9\Loops_and_functions\obj\Debug\net8.0\Loops_and_functions.dll
+D:\STT\CS202_L9\Loops_and_functions\obj\Debug\net8.0\refint\Loops_and_functions.dll
+D:\STT\CS202_L9\Loops_and_functions\obj\Debug\net8.0\Loops_and_functions.pdb
+D:\STT\CS202_L9\Loops_and_functions\obj\Debug\net8.0\Loops_and_functions.genruntimeconfig.cache
+D:\STT\CS202_L9\Loops_and_functions\obj\Debug\net8.0\ref\Loops_and_functions.dll

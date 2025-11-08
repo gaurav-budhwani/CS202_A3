@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\STT\\CS202_L9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66AAC8F2-9502-42F4-9E2D-4D2DBC83B4D6}|Output_Reasoning\\Output_Reasoning.csproj|d:\\stt\\cs202_l9\\output_reasoning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66AAC8F2-9502-42F4-9E2D-4D2DBC83B4D6}|Output_Reasoning\\Output_Reasoning.csproj|solutionrelative:output_reasoning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8B04C2-D31D-41C1-96DA-92C201BDFB00}|Arrays_Matrices\\Arrays_Matrices.csproj|d:\\stt\\cs202_l9\\arrays_matrices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8B04C2-D31D-41C1-96DA-92C201BDFB00}|Arrays_Matrices\\Arrays_Matrices.csproj|solutionrelative:arrays_matrices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31D2D27-875E-44C4-AD05-D6D8EFA4FCEC}|Loops_and_functions\\Loops_and_functions.csproj|d:\\stt\\cs202_l9\\loops_and_functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31D2D27-875E-44C4-AD05-D6D8EFA4FCEC}|Loops_and_functions\\Loops_and_functions.csproj|solutionrelative:loops_and_functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DB5941-0452-4FF2-B2FA-B417AEE94320}|Arithmetics\\Arithmetics.csproj|d:\\stt\\cs202_l9\\arithmetics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DB5941-0452-4FF2-B2FA-B417AEE94320}|Arithmetics\\Arithmetics.csproj|solutionrelative:arithmetics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232D9072-AA29-4B68-8910-5753082DDC37}|CS202_L9\\CS202_L9.csproj|d:\\stt\\cs202_l9\\cs202_l9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232D9072-AA29-4B68-8910-5753082DDC37}|CS202_L9\\CS202_L9.csproj|solutionrelative:cs202_l9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\STT\\CS202_L9\\Output_Reasoning\\Program.cs",
+              "RelativeDocumentMoniker": "Output_Reasoning\\Program.cs",
+              "ToolTip": "D:\\STT\\CS202_L9\\Output_Reasoning\\Program.cs",
+              "RelativeToolTip": "Output_Reasoning\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T07:45:34.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\STT\\CS202_L9\\Arrays_Matrices\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays_Matrices\\Program.cs",
+              "ToolTip": "D:\\STT\\CS202_L9\\Arrays_Matrices\\Program.cs",
+              "RelativeToolTip": "Arrays_Matrices\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAADwv1EAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T07:44:15.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\STT\\CS202_L9\\Loops_and_functions\\Program.cs",
+              "RelativeDocumentMoniker": "Loops_and_functions\\Program.cs",
+              "ToolTip": "D:\\STT\\CS202_L9\\Loops_and_functions\\Program.cs",
+              "RelativeToolTip": "Loops_and_functions\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwCwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T07:36:26.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\STT\\CS202_L9\\Arithmetics\\Program.cs",
+              "RelativeDocumentMoniker": "Arithmetics\\Program.cs",
+              "ToolTip": "D:\\STT\\CS202_L9\\Arithmetics\\Program.cs",
+              "RelativeToolTip": "Arithmetics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T07:34:54.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\STT\\CS202_L9\\CS202_L9\\Program.cs",
+              "RelativeDocumentMoniker": "CS202_L9\\Program.cs",
+              "ToolTip": "D:\\STT\\CS202_L9\\CS202_L9\\Program.cs",
+              "RelativeToolTip": "CS202_L9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T07:22:27.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

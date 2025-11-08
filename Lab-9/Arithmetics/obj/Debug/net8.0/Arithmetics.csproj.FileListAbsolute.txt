@@ -1,0 +1,14 @@
+D:\STT\CS202_L9\Arithmetics\bin\Debug\net8.0\Arithmetics.exe
+D:\STT\CS202_L9\Arithmetics\bin\Debug\net8.0\Arithmetics.deps.json
+D:\STT\CS202_L9\Arithmetics\bin\Debug\net8.0\Arithmetics.runtimeconfig.json
+D:\STT\CS202_L9\Arithmetics\bin\Debug\net8.0\Arithmetics.dll
+D:\STT\CS202_L9\Arithmetics\bin\Debug\net8.0\Arithmetics.pdb
+D:\STT\CS202_L9\Arithmetics\obj\Debug\net8.0\Arithmetics.GeneratedMSBuildEditorConfig.editorconfig
+D:\STT\CS202_L9\Arithmetics\obj\Debug\net8.0\Arithmetics.AssemblyInfoInputs.cache
+D:\STT\CS202_L9\Arithmetics\obj\Debug\net8.0\Arithmetics.AssemblyInfo.cs
+D:\STT\CS202_L9\Arithmetics\obj\Debug\net8.0\Arithmetics.csproj.CoreCompileInputs.cache
+D:\STT\CS202_L9\Arithmetics\obj\Debug\net8.0\Arithmetics.dll
+D:\STT\CS202_L9\Arithmetics\obj\Debug\net8.0\refint\Arithmetics.dll
+D:\STT\CS202_L9\Arithmetics\obj\Debug\net8.0\Arithmetics.pdb
+D:\STT\CS202_L9\Arithmetics\obj\Debug\net8.0\Arithmetics.genruntimeconfig.cache
+D:\STT\CS202_L9\Arithmetics\obj\Debug\net8.0\ref\Arithmetics.dll
