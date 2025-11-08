@@ -1,0 +1,14 @@
+D:\STT\cs202_L10\Part3_OutputReasoning\bin\Debug\net8.0\Part3_OutputReasoning.exe
+D:\STT\cs202_L10\Part3_OutputReasoning\bin\Debug\net8.0\Part3_OutputReasoning.deps.json
+D:\STT\cs202_L10\Part3_OutputReasoning\bin\Debug\net8.0\Part3_OutputReasoning.runtimeconfig.json
+D:\STT\cs202_L10\Part3_OutputReasoning\bin\Debug\net8.0\Part3_OutputReasoning.dll
+D:\STT\cs202_L10\Part3_OutputReasoning\bin\Debug\net8.0\Part3_OutputReasoning.pdb
+D:\STT\cs202_L10\Part3_OutputReasoning\obj\Debug\net8.0\Part3_OutputReasoning.GeneratedMSBuildEditorConfig.editorconfig
+D:\STT\cs202_L10\Part3_OutputReasoning\obj\Debug\net8.0\Part3_OutputReasoning.AssemblyInfoInputs.cache
+D:\STT\cs202_L10\Part3_OutputReasoning\obj\Debug\net8.0\Part3_OutputReasoning.AssemblyInfo.cs
+D:\STT\cs202_L10\Part3_OutputReasoning\obj\Debug\net8.0\Part3_OutputReasoning.csproj.CoreCompileInputs.cache
+D:\STT\cs202_L10\Part3_OutputReasoning\obj\Debug\net8.0\Part3_OutputReasoning.dll
+D:\STT\cs202_L10\Part3_OutputReasoning\obj\Debug\net8.0\refint\Part3_OutputReasoning.dll
+D:\STT\cs202_L10\Part3_OutputReasoning\obj\Debug\net8.0\Part3_OutputReasoning.pdb
+D:\STT\cs202_L10\Part3_OutputReasoning\obj\Debug\net8.0\Part3_OutputReasoning.genruntimeconfig.cache
+D:\STT\cs202_L10\Part3_OutputReasoning\obj\Debug\net8.0\ref\Part3_OutputReasoning.dll

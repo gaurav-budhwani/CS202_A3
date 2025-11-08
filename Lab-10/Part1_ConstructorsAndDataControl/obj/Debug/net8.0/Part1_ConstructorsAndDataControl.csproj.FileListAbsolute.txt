@@ -1,0 +1,14 @@
+D:\STT\cs202_L10\Part1_ConstructorsAndDataControl\bin\Debug\net8.0\Part1_ConstructorsAndDataControl.exe
+D:\STT\cs202_L10\Part1_ConstructorsAndDataControl\bin\Debug\net8.0\Part1_ConstructorsAndDataControl.deps.json
+D:\STT\cs202_L10\Part1_ConstructorsAndDataControl\bin\Debug\net8.0\Part1_ConstructorsAndDataControl.runtimeconfig.json
+D:\STT\cs202_L10\Part1_ConstructorsAndDataControl\bin\Debug\net8.0\Part1_ConstructorsAndDataControl.dll
+D:\STT\cs202_L10\Part1_ConstructorsAndDataControl\bin\Debug\net8.0\Part1_ConstructorsAndDataControl.pdb
+D:\STT\cs202_L10\Part1_ConstructorsAndDataControl\obj\Debug\net8.0\Part1_ConstructorsAndDataControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\STT\cs202_L10\Part1_ConstructorsAndDataControl\obj\Debug\net8.0\Part1_ConstructorsAndDataControl.AssemblyInfoInputs.cache
+D:\STT\cs202_L10\Part1_ConstructorsAndDataControl\obj\Debug\net8.0\Part1_ConstructorsAndDataControl.AssemblyInfo.cs
+D:\STT\cs202_L10\Part1_ConstructorsAndDataControl\obj\Debug\net8.0\Part1_ConstructorsAndDataControl.csproj.CoreCompileInputs.cache
+D:\STT\cs202_L10\Part1_ConstructorsAndDataControl\obj\Debug\net8.0\Part1_ConstructorsAndDataControl.dll
+D:\STT\cs202_L10\Part1_ConstructorsAndDataControl\obj\Debug\net8.0\refint\Part1_ConstructorsAndDataControl.dll
+D:\STT\cs202_L10\Part1_ConstructorsAndDataControl\obj\Debug\net8.0\Part1_ConstructorsAndDataControl.pdb
+D:\STT\cs202_L10\Part1_ConstructorsAndDataControl\obj\Debug\net8.0\Part1_ConstructorsAndDataControl.genruntimeconfig.cache
+D:\STT\cs202_L10\Part1_ConstructorsAndDataControl\obj\Debug\net8.0\ref\Part1_ConstructorsAndDataControl.dll

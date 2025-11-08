@@ -1,0 +1,14 @@
+D:\STT\cs202_L10\l10\bin\Debug\net8.0\l10.exe
+D:\STT\cs202_L10\l10\bin\Debug\net8.0\l10.deps.json
+D:\STT\cs202_L10\l10\bin\Debug\net8.0\l10.runtimeconfig.json
+D:\STT\cs202_L10\l10\bin\Debug\net8.0\l10.dll
+D:\STT\cs202_L10\l10\bin\Debug\net8.0\l10.pdb
+D:\STT\cs202_L10\l10\obj\Debug\net8.0\l10.GeneratedMSBuildEditorConfig.editorconfig
+D:\STT\cs202_L10\l10\obj\Debug\net8.0\l10.AssemblyInfoInputs.cache
+D:\STT\cs202_L10\l10\obj\Debug\net8.0\l10.AssemblyInfo.cs
+D:\STT\cs202_L10\l10\obj\Debug\net8.0\l10.csproj.CoreCompileInputs.cache
+D:\STT\cs202_L10\l10\obj\Debug\net8.0\l10.dll
+D:\STT\cs202_L10\l10\obj\Debug\net8.0\refint\l10.dll
+D:\STT\cs202_L10\l10\obj\Debug\net8.0\l10.pdb
+D:\STT\cs202_L10\l10\obj\Debug\net8.0\l10.genruntimeconfig.cache
+D:\STT\cs202_L10\l10\obj\Debug\net8.0\ref\l10.dll

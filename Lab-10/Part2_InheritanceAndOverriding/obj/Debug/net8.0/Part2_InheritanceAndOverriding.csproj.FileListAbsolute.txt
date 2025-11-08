@@ -1,0 +1,14 @@
+D:\STT\cs202_L10\Part2_InheritanceAndOverriding\bin\Debug\net8.0\Part2_InheritanceAndOverriding.exe
+D:\STT\cs202_L10\Part2_InheritanceAndOverriding\bin\Debug\net8.0\Part2_InheritanceAndOverriding.deps.json
+D:\STT\cs202_L10\Part2_InheritanceAndOverriding\bin\Debug\net8.0\Part2_InheritanceAndOverriding.runtimeconfig.json
+D:\STT\cs202_L10\Part2_InheritanceAndOverriding\bin\Debug\net8.0\Part2_InheritanceAndOverriding.dll
+D:\STT\cs202_L10\Part2_InheritanceAndOverriding\bin\Debug\net8.0\Part2_InheritanceAndOverriding.pdb
+D:\STT\cs202_L10\Part2_InheritanceAndOverriding\obj\Debug\net8.0\Part2_InheritanceAndOverriding.GeneratedMSBuildEditorConfig.editorconfig
+D:\STT\cs202_L10\Part2_InheritanceAndOverriding\obj\Debug\net8.0\Part2_InheritanceAndOverriding.AssemblyInfoInputs.cache
+D:\STT\cs202_L10\Part2_InheritanceAndOverriding\obj\Debug\net8.0\Part2_InheritanceAndOverriding.AssemblyInfo.cs
+D:\STT\cs202_L10\Part2_InheritanceAndOverriding\obj\Debug\net8.0\Part2_InheritanceAndOverriding.csproj.CoreCompileInputs.cache
+D:\STT\cs202_L10\Part2_InheritanceAndOverriding\obj\Debug\net8.0\Part2_InheritanceAndOverriding.dll
+D:\STT\cs202_L10\Part2_InheritanceAndOverriding\obj\Debug\net8.0\refint\Part2_InheritanceAndOverriding.dll
+D:\STT\cs202_L10\Part2_InheritanceAndOverriding\obj\Debug\net8.0\Part2_InheritanceAndOverriding.pdb
+D:\STT\cs202_L10\Part2_InheritanceAndOverriding\obj\Debug\net8.0\Part2_InheritanceAndOverriding.genruntimeconfig.cache
+D:\STT\cs202_L10\Part2_InheritanceAndOverriding\obj\Debug\net8.0\ref\Part2_InheritanceAndOverriding.dll

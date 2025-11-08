@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\STT\\cs202_L10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66F4CC40-52B6-4882-8EE0-747F892D76B0}|Part1_ConstructorsAndDataControl\\Part1_ConstructorsAndDataControl.csproj|d:\\stt\\cs202_l10\\part1_constructorsanddatacontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F4CC40-52B6-4882-8EE0-747F892D76B0}|Part1_ConstructorsAndDataControl\\Part1_ConstructorsAndDataControl.csproj|solutionrelative:part1_constructorsanddatacontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A244D4F-5E9E-4DDD-875E-3A43E8FEDD87}|Part3_OutputReasoning\\Part3_OutputReasoning.csproj|d:\\stt\\cs202_l10\\part3_outputreasoning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A244D4F-5E9E-4DDD-875E-3A43E8FEDD87}|Part3_OutputReasoning\\Part3_OutputReasoning.csproj|solutionrelative:part3_outputreasoning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C17556-CF37-49AD-91F8-5FF71408B091}|Part2_InheritanceAndOverriding\\Part2_InheritanceAndOverriding.csproj|d:\\stt\\cs202_l10\\part2_inheritanceandoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C17556-CF37-49AD-91F8-5FF71408B091}|Part2_InheritanceAndOverriding\\Part2_InheritanceAndOverriding.csproj|solutionrelative:part2_inheritanceandoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92ECE9F-B124-4746-A077-03A2E7FDB1DD}|l10\\l10.csproj|d:\\stt\\cs202_l10\\l10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92ECE9F-B124-4746-A077-03A2E7FDB1DD}|l10\\l10.csproj|solutionrelative:l10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\STT\\cs202_L10\\Part3_OutputReasoning\\Program.cs",
+              "RelativeDocumentMoniker": "Part3_OutputReasoning\\Program.cs",
+              "ToolTip": "D:\\STT\\cs202_L10\\Part3_OutputReasoning\\Program.cs",
+              "RelativeToolTip": "Part3_OutputReasoning\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T19:55:38.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\STT\\cs202_L10\\Part2_InheritanceAndOverriding\\Program.cs",
+              "RelativeDocumentMoniker": "Part2_InheritanceAndOverriding\\Program.cs",
+              "ToolTip": "D:\\STT\\cs202_L10\\Part2_InheritanceAndOverriding\\Program.cs",
+              "RelativeToolTip": "Part2_InheritanceAndOverriding\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswFgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T19:55:14.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\STT\\cs202_L10\\Part1_ConstructorsAndDataControl\\Program.cs",
+              "RelativeDocumentMoniker": "Part1_ConstructorsAndDataControl\\Program.cs",
+              "ToolTip": "D:\\STT\\cs202_L10\\Part1_ConstructorsAndDataControl\\Program.cs",
+              "RelativeToolTip": "Part1_ConstructorsAndDataControl\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA3wD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T19:54:49.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\STT\\cs202_L10\\l10\\Program.cs",
+              "RelativeDocumentMoniker": "l10\\Program.cs",
+              "ToolTip": "D:\\STT\\cs202_L10\\l10\\Program.cs",
+              "RelativeToolTip": "l10\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T19:51:23.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
